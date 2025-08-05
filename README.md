@@ -2,6 +2,7 @@ README is still being updated.
 
 This repository is supportive to the following manuscript:
  Al-Ghawanmeh, F., Jensenius, A., and Smaïli, K. Arab Music Improvisation Corpus for Research (AMICOR): Development and Machine Translation Experiments. Journal manuscript submitted for review in August 2023.
+ 
 (the material corresponding to this contribution is all uploaded by August 2025 at the latest),
 
  We have made the following resources accessible to the research community online: a parallel music dataset comprising 7K sentences distributed across 8 maqam-based sub-datasets, accompanied by a set of Matlab functions for dataset pre-processing. Additionally, initial versions of two Java applications has been shared: 1) the Mawaweel application, integrating the best-performing machine translation model to offer real-time instrumental audio responses to vocal audio prompts; 2) The Corpus Maker application, developed to streamline the dataset construction. Furthermore, we have included a collection of symbolic case studies interpreting the results, alongside a selection of illustrative audio and video examples.
