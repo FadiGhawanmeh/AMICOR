@@ -1,4 +1,3 @@
-README is still being updated.
 
 This repository is supportive to the following manuscript:
  Al-Ghawanmeh, F., Jensenius, A., and Smaïli, K. Arab Music Improvisation Corpus for Research (AMICOR): Development and Machine Translation Experiments. Journal manuscript submitted for review in August 2023.
@@ -17,21 +16,21 @@ While the article's manuscript uses an illustrative data representation, her in 
 
 Supporting files:
 
-FILE NAME                                                      DESCRIPTION
+FILE NAME:                                                      DESCRIPTION
 
-EAMT23.pdf                                                     a previous article that provides validation of the BLEU metric used in the evaluation in Mawwal MT.
+EAMT23.pdf:                                                     a previous article that provides validation of the BLEU metric used in the evaluation in Mawwal MT.
 
-Example of responsive accompaniment.mp3                        example audio files illustrating the responsive musical accompaniment using the proposed MT method.
+Example of responsive accompaniment.mp3:                        example audio files illustrating the responsive musical accompaniment using the proposed MT method.
 
-Link to example of statistical and Neural MT models.rtf        link to example models
+Link to example of statistical and Neural MT models.rtf:        link to example models
 
-Links to video presentations from conferences.docx             links to academic presentations on this project from previous conferences
+Links to video presentations from conferences.docx:             links to academic presentations on this project from previous conferences
 
-Live demo in Stocastic Labs Berkeley California Aug 2023.mp4   video file with live demo illustrating the use of Mawaweel computer application for responive accompaniment using MT.
+Live demo in Stocastic Labs Berkeley California Aug 2023.mp4:   video file with live demo illustrating the use of Mawaweel computer application for responive accompaniment using MT.
 
-Python short scripts for analysis of music text corpora.txt    Python scripts for analysis of music text corpora
+Python short scripts for analysis of music text corpora.txt:    Python scripts for analysis of music text corpora
 
-published papers and artwork.rar                               collection of published papers and an artwork within this project (using MT for responsive mawwal accompaniment)
+published papers and artwork.rar:                               collection of published papers and an artwork within this project (using MT for responsive mawwal accompaniment)
 
 
 
