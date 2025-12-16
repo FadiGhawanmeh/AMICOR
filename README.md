@@ -32,7 +32,7 @@ Python short scripts for analysis of music text corpora.txt:    Python scripts f
 
 published papers and artwork.rar:                               collection of published papers and an artwork within this project (using MT for responsive mawwal accompaniment)
 
-Illustration of the content of each data representation_textFiles_MATLABfile_manuscript_musicScore.png    
+Illustration of the content of each data representation_textFiles_MATLABfile_manuscript_musicScore.png:    
                                                                 Figure showing an example of a parallel musical sentence, including a table that illustrates the                                                                                    content of each data representation. It presents the musical score, the text representation, the MATLAB file                                                                        representation, and the corresponding textual illustration used in the manuscript.
 
 
